@@ -1,0 +1,11 @@
+!*.py
+!*.ipynb
+!*.sh
+!*.yaml
+!*.gitignore
+
+data
+build
+coastlines/_version.py
+deafrica_coastlines.egg-info/
+__pycache__
